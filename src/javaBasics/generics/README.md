@@ -17,4 +17,8 @@ After 1.5 version
 
 ## Why ArrayList is accepted without datatype
 
-For backward compatibility, ArrayList still works without specifying the object. 
+For backward compatibility, ArrayList still works without specifying the object.
+
+## Multiple bound
+
+refer `MultipleBound.java`

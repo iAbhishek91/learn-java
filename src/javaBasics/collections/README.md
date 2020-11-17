@@ -1,9 +1,13 @@
 # Collection
 
-- Collection is an interface.
+- Collection is a class.
     - List is an Interface, and extends collection interface
         - All lists implements list. LinkList, ArrayList, Vector.
-    
+    - set
+    - queue
+    - deque
+- Map is an interface
+
 > Don't use raw type, see more on generics.
     
     
